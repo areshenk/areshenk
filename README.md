@@ -14,6 +14,12 @@ My background is in statistics and mathematics, and I tend to enjoy any research
 
 I've been making increasing efforts to open-source my workflow by packaging and releasing code I use repeatedly. If the code is universal enough, then this is usually in the form of an R package. For specific research projects, I'm trying to get into the habit of organizing the entire pipeline into an R package or a set of jupyter notebooks, along with example data if the entire dataset cannot be released publically. 
 
+My repositories are organized mostly by abusing Github's organization system.
+
+### [areshenk-rpackages](https://github.com/areshenk-rpackages)
+
+Contains R packages for procedures that I use repeatedly in my work. Of these packages, the most complete is [spdm](https://github.com/areshenk-rpackages/spdm), a library implenting operations on the space of symmetric, positive-definite matrices, which are used repeated in differentio-geometric approaches to the study of fMRI functional connectivity.
+
 <a href="https://github.com/areshenk-rpackages/spdm">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=spdm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -22,8 +28,16 @@ I've been making increasing efforts to open-source my workflow by packaging and 
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=seathree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/areshenk-rpackages/MSMVSampEn">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=MSMVSampEn&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+### [areshenk-opendata](https://github.com/areshenk-opendata)
+
+Contains data or code for replicating published work. 
+
+<a href="https://github.com/areshenk-opendata/2018-karr-cfareanalysis">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-opendata&repo=2018-karr-cfareanalysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/areshenk-opendata/2017-smart-metaanalysis">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-opendata&repo=2017-smart-metaanalysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 # Posts
