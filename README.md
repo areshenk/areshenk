@@ -25,4 +25,9 @@ I've been making increasing efforts to open-source my workflow by packaging code
 
 # Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spurious dynamics in functional brain networks](http://areshenk-research-notes.com/spurious-dynamics-in-functional-brain-networks/)
+- [Calibrating “surprise” in high dimensions](http://areshenk-research-notes.com/calibrating-surprise-in-high-dimensions/)
+- [More spurious modular structure in functional brain networks](http://areshenk-research-notes.com/more-spurious-modular-structure-in-functional-brain-networks/)
+- [Spurious modular structure in functional brain networks](http://areshenk-research-notes.com/spurious-structure-in-functional-brain-networks/)
+- [In a room sit three textbooks…](http://areshenk-research-notes.com/in-a-room-sit-three-textbooks/)
 <!-- BLOG-POST-LIST:END -->
