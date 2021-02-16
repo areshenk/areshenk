@@ -4,14 +4,15 @@
 ![](https://img.shields.io/badge/Writing-Latex-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=BB5700)
 ![](https://img.shields.io/badge/Writing-RMarkdown-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=BB5700)
 
-
 <h1 align="center">Corson N. Areshenkoff</h1>
 
-- I regularly write articles on [areshenkblog.com](areshenkblog.com)
+I'm a doctoral candidate in the [Memory, Action, and Perception Lab](http://www.gallivanmaplab.com/) at the Centre for Neuroscience Studies at Queen's University. My research focuses on motor learning, and on the contributions of different learning systems (e.g. reinforcement learning, cognitive strategies) to motor control. Lately, my work uses fMRI to characterize brain networks underlying individual differences in motor learning. More generally, I’ve been experimenting with geometric methods for studying brain networks.
+
+My background is in statistics and mathematics, and I tend to enjoy any research problem involving interesting or unusual analyses. I also enjoy complaining about statistics I don’t like. Most of my complaining is done on my [webpage](areshenkblog.com).
 
 ## Pinned Repositories
 
-I've been making increasing efforts to open-source my workflow by packaging code I use repeatedly, and 
+I've been making increasing efforts to open-source my workflow by packaging and releasing code I use repeatedly. Some of these 
 
 <br>
 
