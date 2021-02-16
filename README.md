@@ -5,4 +5,16 @@
 
 <h1 align="center">Corson N. Areshenkoff</h1>
 
-- 📝 I regularly write articles on [areshenkblog.com](areshenkblog.com)
+- I regularly write articles on [areshenkblog.com](areshenkblog.com)
+
+## Pinned Repositories
+
+I've been making increasing efforts to open-source my workflow by packaging code I use repeatedly, 
+
+<br>
+
+<a href="https://github.com/areshenk-rpackages/spdm">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=spdm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
