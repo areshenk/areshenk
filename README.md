@@ -14,7 +14,7 @@ My background is in statistics and mathematics, and I tend to enjoy any research
 
 I've been making increasing efforts to open-source my workflow by packaging and releasing code I use repeatedly. If the code is universal enough, then this is usually in the form of an R package. For specific research projects, I'm trying to get into the habit of organizing the entire pipeline into an R package or a set of jupyter notebooks, along with example data if the entire dataset cannot be released publically. 
 
-My repositories are organized mostly by abusing Github's organization system.
+My repositories are organized mostly by abusing Github organizations.
 
 ### [areshenk-rpackages](https://github.com/areshenk-rpackages)
 
@@ -39,6 +39,10 @@ Contains data or code for replicating published work.
 <a href="https://github.com/areshenk-opendata/2017-smart-metaanalysis">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-opendata&repo=2017-smart-metaanalysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+### [areshenk-projects](https://github.com/areshenk-projects)
+
+Pipelines for ongoing projects. These are generally under continuing development, and are migrated over to -opendata once the project is closed.
 
 # Posts
 <!-- BLOG-POST-LIST:START -->
