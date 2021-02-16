@@ -10,11 +10,9 @@ I'm a doctoral candidate in the [Memory, Action, and Perception Lab](http://www.
 
 My background is in statistics and mathematics, and I tend to enjoy any research problem involving interesting or unusual analyses. I also enjoy complaining about statistics I don’t like. Most of my complaining is done on my [webpage](areshenkblog.com).
 
-## Pinned Repositories
+## Repositories
 
-I've been making increasing efforts to open-source my workflow by packaging and releasing code I use repeatedly. Some of these 
-
-<br>
+I've been making increasing efforts to open-source my workflow by packaging and releasing code I use repeatedly. If the code is universal enough, then this is usually in the form of an R package. For specific research projects, I'm trying to get into the habit of organizing the entire pipeline into an R package or a set of jupyter notebooks, along with example data if the entire dataset cannot be released publically. 
 
 <a href="https://github.com/areshenk-rpackages/spdm">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=spdm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -22,6 +20,10 @@ I've been making increasing efforts to open-source my workflow by packaging and 
 
 <a href="https://github.com/areshenk-rpackages/seathree">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=seathree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/areshenk-rpackages/MSMVSampEn">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=MSMVSampEn&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 # Posts
