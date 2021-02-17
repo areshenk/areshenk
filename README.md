@@ -18,7 +18,7 @@ My repositories are organized mostly by abusing Github organizations.
 
 ### [areshenk-rpackages](https://github.com/areshenk-rpackages)
 
-Contains R packages for procedures that I use repeatedly in my work. Of these packages, the most complete is [spdm](https://github.com/areshenk-rpackages/spdm), a library implenting operations on the space of symmetric, positive-definite matrices, which are used repeated in differentio-geometric approaches to the study of fMRI functional connectivity.
+Contains R packages for procedures that I use repeatedly in my work. Of these packages, the most complete is [spdm](https://github.com/areshenk-rpackages/spdm), a library implenting operations on the space of symmetric, positive-definite matrices, which are used repeatedly in differentio-geometric approaches to the study of fMRI functional connectivity.
 
 <a href="https://github.com/areshenk-rpackages/spdm">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=spdm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
