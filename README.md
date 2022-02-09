@@ -40,9 +40,11 @@ Contains data or code for replicating published work.
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-opendata&repo=2017-smart-metaanalysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<!-- Project pages
 ### [areshenk-projects](https://github.com/areshenk-projects)
 
 Pipelines for ongoing projects. These are generally under continuing development, and are migrated over to -opendata once the project is closed.
+-->
 
 # Posts
 <!-- BLOG-POST-LIST:START -->
