@@ -6,7 +6,7 @@
 
 <h1 align="center">Corson N. Areshenkoff</h1>
 
-I am a researcher in the [Memory, Action, and Perception Lab](http://www.gallivanmaplab.com/) at the Centre for Neuroscience Studies at Queen's University. My research focuses on motor learning, and on the contributions of different learning systems (e.g. reinforcement learning, cognitive strategies) to motor control. My work uses fMRI to characterize brain networks underlying individual differences in motor learning. More generally, I’ve been experimenting with geometric methods for studying brain networks.
+I completed my PhD in the [Memory, Action, and Perception Lab](http://www.gallivanmaplab.com/) at the Centre for Neuroscience Studies at Queen's University. My doctoral research focused largely on motor learning, and especially on the contributions of cognitive (e.g. frontoparietal) brain networks to motor control. My work uses fMRI to relate whole-brain functional network structure to individual differences in motor skill learning. More recently, my interests have expanded to executive functions and decision making processes, and especially to the role of prefrontal-hippocampal circuitry in forming high-level cognitive maps of task-structure.
 
 My background is in statistics and mathematics, and I tend to enjoy any research problem involving interesting or unusual analyses. I also enjoy complaining about statistics I don’t like. Most of my complaining is done on my [webpage](https://areshenk.github.io/).
 
@@ -18,7 +18,7 @@ My repositories are organized mostly by abusing Github organizations.
 
 ### [areshenk-rpackages](https://github.com/areshenk-rpackages)
 
-Contains R packages for procedures that I use repeatedly in my work. Of these packages, the most complete is [spdm](https://github.com/areshenk-rpackages/spdm), a library implenting operations on the space of symmetric, positive-definite matrices, which are used repeatedly in differentio-geometric approaches to the study of fMRI functional connectivity.
+Contains R packages for procedures that I use repeatedly in my work. Of particular note is [spdm](https://github.com/areshenk-rpackages/spdm), a library implenting operations on the space of symmetric, positive-definite matrices, which are used repeatedly in differentio-geometric approaches to the study of fMRI functional connectivity.
 
 <a href="https://github.com/areshenk-rpackages/spdm">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=areshenk-rpackages&repo=spdm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
