@@ -1,14 +1,6 @@
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=008827)
-![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=0037CC)
-![](https://img.shields.io/badge/Code-Stan-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=0037CC)
-![](https://img.shields.io/badge/Writing-Latex-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=BB5700)
-![](https://img.shields.io/badge/Writing-RMarkdown-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=BB5700)
-
 <h1 align="center">Corson N. Areshenkoff</h1>
 
-I completed my PhD in the [Memory, Action, and Perception Lab](http://www.gallivanmaplab.com/) at the Centre for Neuroscience Studies at Queen's University. My doctoral research focused largely on motor learning, and especially on the contributions of cognitive (e.g. frontoparietal) brain networks to motor control. My work uses fMRI to relate whole-brain functional network structure to individual differences in motor skill learning. More recently, my interests have expanded to executive functions and decision making processes, and especially to the role of prefrontal-hippocampal circuitry in forming high-level cognitive maps of task-structure.
-
-My background is in statistics and mathematics, and I tend to enjoy any research problem involving interesting or unusual analyses. I also enjoy complaining about statistics I don’t like. Most of my complaining is done on my [webpage](https://areshenk.github.io/).
+I am a postdoctoral researcher in the Doeller Lab at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. My research focuses on sensorimotor learning and control, and especially on the role of hippocampal and prefrontal representations of task structure on the selection and execution of motor responses. My background is in statistics and mathematics, and I tend to enjoy any research problem involving interesting or unusual analyses. I also enjoy complaining about statistics I don’t like. Most of my complaining is done on my [webpage](https://areshenk.github.io/).
 
 ## Repositories
 
